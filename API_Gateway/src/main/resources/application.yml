@@ -1,0 +1,24 @@
+server:
+  port: 8088
+  
+spring:
+  application:
+    name: API_Gateway
+    
+#springdoc:
+#  swagger-ui:
+#    disable-swagger-default-url: false
+   
+  cloud:
+    gateway:
+      routes:
+      - id: DEPARTEMENT-SERVICE
+        uri:
+         lb://DEPARTEMENT-SERVICE
+        predicates:
+        - Path=/departement/**
+      - id: STUDENT-SERVICE
+        uri:
+         lb://STUDENT-SERVICE
+        predicates:
+        - Path=/student/**

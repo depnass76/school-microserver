@@ -1,0 +1,14 @@
+ server:
+  port: 8761
+ 
+ eureka:
+  client:
+    fetchRegistry: true
+    registerWithEureka: false
+    
+    
+#springdoc:
+#  swagger-ui:
+#   disable-swagger-default-url: false
+
+

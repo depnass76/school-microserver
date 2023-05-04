@@ -1,0 +1,17 @@
+1673803478172	Rename package 'com.reda.studentmicroserver.universitymicroservice.UniversityController'
+1673803947144	Rename type 'university'
+1673914783578	Rename package 'com.reda.studentmicroserver.universitymicroservice'
+1673914807610	Rename package 'com.reda.studentmicroserver.universitymicroservice.entity'
+1673914825654	Rename package 'com.reda.studentmicroserver.universitymicroservice.repositories'
+1673914843503	Rename package 'com.reda.studentmicroserver.universitymicroservice.model'
+1673914865096	Rename package 'com.reda.studentmicroserver.universitymicroservice.service'
+1673914892755	Rename package 'com.reda.studentmicroserver.universitymicroservice.controller'
+1673922200632	Copy compilation unit
+1673922209475	Copy compilation unit
+1673922274568	Delete element
+1673922281412	Delete element
+1673924031786	Rename package 'com.reda.universitymicroservice.entity'
+1673924046162	Rename package 'com.reda.universitymicroservice.model'
+1673924071604	Rename package 'com.reda.universitymicroservice.repositories'
+1673924100024	Rename package 'com.reda.universitymicroservice.controller'
+1673924120712	Rename package 'com.reda.universitymicroservice.service'
